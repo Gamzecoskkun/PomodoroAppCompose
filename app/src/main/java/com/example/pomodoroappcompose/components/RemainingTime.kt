@@ -49,8 +49,6 @@ fun RemainingTime(
         verticalArrangement = Arrangement.Center,
         horizontalAlignment = Alignment.CenterHorizontally
     ) { }
-
-
 }
 
 fun DrawScope.foregroundIndicator(
