@@ -2,4 +2,5 @@
 <resources>
     <dimen name="pomodoro_done_dot_size">16dp</dimen>
     <dimen name="pomodoro_done_dot_spacing">12dp</dimen>
+    <dimen name="btn_size">32dp</dimen>
 </resources>
